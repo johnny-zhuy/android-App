@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EmaSystem</string>
+    <string name="title_name">高校国有资产管理系统</string>
+    <string name="usr_name">用户名：</string>
+    <string name="usr_password">密码：</string>
+    <string name="str_login">登陆</string>
+    <string name="str_cancel">取消</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
